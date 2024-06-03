@@ -55,9 +55,8 @@ Copy and paste this link - http://localhost/osTicket/scp/login.php - in a new ta
 Type in your admin's created username and password <br>
 Username:Jay <br>
 Password: Password1 <br>
-<img width="575" alt="image" src="https://github.com/jaysixco/ticket-lifecycle-rd/assets/160427311/ee1eba4c-45e1-49ce-8331-8335b139e7df">
-<br>
 Click the ticket <br>
+<img width="575" alt="image" src="https://github.com/jaysixco/ticket-lifecycle-rd/assets/160427311/ee1eba4c-45e1-49ce-8331-8335b139e7df"> <br>
 Click Reassign, then click "Agent" <br>
 <img width="581" alt="image" src="https://github.com/jaysixco/ticket-lifecycle-rd/assets/160427311/96673d6f-f066-42bd-b1f1-28d4a71cd809">
 <br>
