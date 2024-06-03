@@ -54,7 +54,7 @@ Copy and paste this link - http://localhost/osTicket/scp/login.php - in a new ta
 Type in your admin's created username and password <br>
 Username:Jay <br>
 Password: Password1 <br>
-(add screenshot of login page)
+<img width="268" alt="image" src="https://github.com/jaysixco/post-install-config-rd/assets/160427311/42b477f0-c459-4439-b655-01dec786b5ea"> <br>
 Click the ticket <br>
 <img width="575" alt="image" src="https://github.com/jaysixco/ticket-lifecycle-rd/assets/160427311/ee1eba4c-45e1-49ce-8331-8335b139e7df"> <br>
 Click Reassign, then click "Agent" <br>
@@ -96,7 +96,6 @@ Will automatically bring you to tickets page. You can see that the ticket is no 
 </p>
 
 Done. Only thing left to do is to add red rectangles to the screenshots. 
-P.S. 1 more screenshot left to get (of osTicket login page when logging in as admin) (get it when doing another trial run).
 
 
 
