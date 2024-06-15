@@ -38,7 +38,7 @@ In this tutorial, you/we are going to be creating and delegating tickets <br>
 </p>
 <p>
 <strong> Part 1: Create a Ticket (User) </strong> <br>
-Copy this link: http://localhost/osTicket/ <br>
+While in VM, copy this link: http://localhost/osTicket/ <br>
 Open a new tab <br>
 Paste the link in the url and press Enter key <br>
 Click "Open a new Ticket" <br>
