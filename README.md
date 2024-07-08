@@ -11,7 +11,6 @@ In this tutorial, we are going to play different roles - administrator, agent, u
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Google Chrome
 
 <h2>Operating Systems Used </h2>
 
